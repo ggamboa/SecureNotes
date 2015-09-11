@@ -1,0 +1,13 @@
+toByteArray() - return as byte array
+
+save(String fileName) 
+	- convert current data to byte array
+	- save to a file
+
+static getInstance(filename) - load from a file
+
+
+
+createFromByteArray - construct using byte array
+
+
